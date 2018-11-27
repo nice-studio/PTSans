@@ -6,17 +6,17 @@
 		"ProjectSoft <projectsoft2009@yandex.ru>"
 	],
 	"license": "ISC",
-	"homepage": "https://github.com/nice-studio/PTSerif",
+	"homepage": "https://github.com/nice-studio/PTSans",
 	"ignore": [
 		"**/.*",
+		"**/*.js",
+		"**/*.html",
+		"**/*.ico",
+		"**/*.json",
 		"node_modules",
 		"bower_components",
 		"test",
 		"tests",
-		"src/pug",
-		"Gruntfile.js",
-		"**/*.html",
-		"**/*.ico",
-		"**/*.json"
+		"src/pug"
 	]
 }
