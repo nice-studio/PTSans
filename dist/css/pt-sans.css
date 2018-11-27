@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'PT Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('PT Sans Italic'), local('PTSans-Italic'), url("dist/fonts/PTSansItalic.eot") format("embedded-opentype"), url("dist/fonts/PTSansItalic.otf") format("opentype"), url("dist/fonts/PTSansItalic.svg") format("svg"), url("dist/fonts/PTSansItalic.ttf") format("truetype"), url("dist/fonts/PTSansItalic.woff") format("woff"), url("dist/fonts/PTSansItalic.woff2") format("woff2");
+}
+@font-face {
+  font-family: 'PT Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: local('PT Sans Bold Italic'), local('PTSans-BoldItalic'), url("dist/fonts/PTSansBoldItalic.eot") format("embedded-opentype"), url("dist/fonts/PTSansBoldItalic.otf") format("opentype"), url("dist/fonts/PTSansBoldItalic.svg") format("svg"), url("dist/fonts/PTSansBoldItalic.ttf") format("truetype"), url("dist/fonts/PTSansBoldItalic.woff") format("woff"), url("dist/fonts/PTSansBoldItalic.woff2") format("woff2");
+}
+@font-face {
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('PT Sans'), local('PTSans-Regular'), url("dist/fonts/PTSansRegular.eot") format("embedded-opentype"), url("dist/fonts/PTSansRegular.otf") format("opentype"), url("dist/fonts/PTSansRegular.svg") format("svg"), url("dist/fonts/PTSansRegular.ttf") format("truetype"), url("dist/fonts/PTSansRegular.woff") format("woff"), url("dist/fonts/PTSansRegular.woff2") format("woff2");
+}
+@font-face {
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('PT Sans Bold'), local('PTSans-Bold'), url("dist/fonts/PTSansBold.eot") format("embedded-opentype"), url("dist/fonts/PTSansBold.otf") format("opentype"), url("dist/fonts/PTSansBold.svg") format("svg"), url("dist/fonts/PTSansBold.ttf") format("truetype"), url("dist/fonts/PTSansBold.woff") format("woff"), url("dist/fonts/PTSansBold.woff2") format("woff2");
+}

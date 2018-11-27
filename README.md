@@ -1,1 +1,1 @@
-# PTSans
+# Font Family: PT Sans
