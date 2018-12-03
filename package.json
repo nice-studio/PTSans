@@ -15,6 +15,7 @@
 	"bugs": {
 		"url": "https://github.com/nice-studio/PTSans/issues"
 	},
+	"githubpage": "https://nice-studio.github.io/PTSans/",
 	"homepage": "https://github.com/nice-studio/PTSans#readme",
 	"devDependencies": {
 		"grunt": "^1.0.1",
