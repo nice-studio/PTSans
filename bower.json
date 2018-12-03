@@ -1,22 +1,25 @@
 {
-	"name": "ptsans",
-	"description": "",
-	"main": "dist/css/pt-sans.css",
-	"authors": [
-		"ProjectSoft <projectsoft2009@yandex.ru>"
-	],
-	"license": "ISC",
-	"homepage": "https://github.com/nice-studio/PTSans",
-	"ignore": [
-		"**/.*",
-		"**/*.js",
-		"**/*.html",
-		"**/*.ico",
-		"**/*.json",
-		"node_modules",
-		"bower_components",
-		"test",
-		"tests",
-		"src/pug"
-	]
+  "name": "ptsans",
+  "description": "",
+  "main": "dist/css/pt-sans.css",
+  "authors": [
+    "ProjectSoft <projectsoft2009@yandex.ru>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/nice-studio/PTSans",
+  "ignore": [
+    "**/.*",
+    "**/*.js",
+    "**/*.html",
+    "**/*.ico",
+    "**/*.json",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src/pug"
+  ],
+  "devDependencies": {
+    "fontname": "https://github.com/nice-studio/sceleton-webfont.git"
+  }
 }
